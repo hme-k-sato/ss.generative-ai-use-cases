@@ -21,7 +21,7 @@ import {
   PiMicrophoneBold,
   PiGraph,
 } from 'react-icons/pi';
-import AwsIcon from '../assets/aws.svg?react';
+//import AwsIcon from '../assets/aws.svg?react';
 import useInterUseCases from '../hooks/useInterUseCases';
 import {
   AgentPageQueryParams,
