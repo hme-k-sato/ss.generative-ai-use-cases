@@ -19,7 +19,7 @@ export default {
         height: 'height',
       },
       colors: {
-        'aws-squid-ink': '#232F3E',
+        'aws-squid-ink': '#285F96',
         'aws-anchor': '#003181',
         'aws-sky': '#2074d5',
         'aws-rind': '#FBD8BF',
